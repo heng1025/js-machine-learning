@@ -1,0 +1,18 @@
+{
+  "name": "js-machine-learing",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.8.0"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.13.0",
+    "plotly.js-dist-min": "^2.9.0",
+    "seedrandom": "~2.4.3"
+  }
+}
